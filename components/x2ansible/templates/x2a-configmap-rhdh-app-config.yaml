@@ -114,6 +114,7 @@ data:
           scaffolderFieldExtensions:
             - importName: RepoAuthenticationExtension
             - importName: RulesAcceptanceExtension
+            - importName: X2ARepoUrlPickerExtension
           translationResources:
             - importName: x2aPluginTranslations
               ref: x2aPluginTranslationRef
